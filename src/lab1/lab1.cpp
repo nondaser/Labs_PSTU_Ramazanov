@@ -19,7 +19,6 @@ int main() {
 
 	// nomer 2
 	int m = 5, n = 3;
-	// m - ++n
 	int r1 = m - ++n;
 	cout << "++m > --n = " << r1 << " (n = " << n << ")" << endl;
 	bool r2 = ++m > --n;
