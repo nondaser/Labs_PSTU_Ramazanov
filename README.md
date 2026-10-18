@@ -16,5 +16,7 @@
 | 1 | lab0     | 24.09 | ready  |
 | 2 | lab1     | 13.10 | ready  |
 | 3 | lab2     | 13.10 | ready  |
+| 4 | lab3     | 20.10 | ready  |
+| 5 | lab4     | 20.10 | ready  |
 
 
